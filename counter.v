@@ -5,7 +5,7 @@ module counter(
   output reg [7:0] out
 );
 
-intial
+initial
 begin
   out <= 8'b0;
 end
